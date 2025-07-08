@@ -12,46 +12,25 @@ Actualmente busco nuevos retos donde seguir creciendo como desarrollador web y a
 
 ## 🧠 Lenguajes y Frameworks
 
-- JavaScript (ES6)  
-- TypeScript  
-- Angular  
-- React  
-- HTML5  
-- CSS3  
-- Bootstrap  
-- Responsive  
-- APIs Restful  
-- Python  
-- Flask  
-- PostgreSQL  
-- JWT  
+- JavaScript (ES6)  - TypeScript  - Angular  - React  - HTML5  - CSS3  - Bootstrap  - Responsive  - APIs Restful  - Python  - Flask  - PostgreSQL  - JWT  
 
 ---
 
 ## 🎨 Diseño UI/UX
 
-- Photoshop  
-- Figma  
-- Illustrator  
+- Photoshop  - Figma  - Illustrator  
 
 ---
 
 ## 📈 SEO & Analítica
 
-- SEO  
-- Google Analytics  
-- Google Adwords  
-- SEMrush  
+- SEO  - Google Analytics  - Google Adwords  - SEMrush  
 
 ---
 
 ## 🛠️ Herramientas de Gestión y Desarrollo
 
-- Git, GitHub  
-- Jira  
-- Agile  
-- Eclipse  
-- Plastic SCM
+- Git, GitHub  - Jira  - Agile  - Eclipse  - Plastic SCM
 
 
 <!--
