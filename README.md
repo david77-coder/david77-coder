@@ -12,7 +12,7 @@ Actualmente busco nuevos retos donde seguir creciendo como desarrollador web y a
 
 ## 🧠 Lenguajes y Frameworks
 
-- JavaScript (ES6)  - TypeScript  - Angular  - React  - HTML5  - CSS3  - Bootstrap  - Responsive  - APIs Restful  - Python  - Flask  - PostgreSQL  - JWT  
+- JavaScript (ES6)  - TypeScript  - Angular  - React  - HTML5  - CSS3  - Bootstrap  - Responsive  - APIs Restful - Postman  - Python  - Flask  - PostgreSQL  - JWT  
 
 ---
 
