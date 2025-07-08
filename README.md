@@ -3,7 +3,7 @@
 Empecé hace 20 años como diseñador gráfico y web, y con el tiempo me especialicé en maquetación web y diseño adaptativo.  
 Más adelante profundicé en JavaScript, trabajando en sectores como banca, telecomunicaciones y aplicaciones médicas.
 
-Con la aparición de frameworks como React y Vue.js, enfoqué mi carrera en el desarrollo frontend.  
+Con la aparición de frameworks como React, Vue.js y Angular, profundicé en su conocimiento.  
 Recientemente completé un proyecto con React, Python, Flask y PostgreSQL, centrado en la gestión de gastos y pagos.
 
 Actualmente busco nuevos retos donde seguir creciendo como desarrollador web y aportar mi experiencia.
